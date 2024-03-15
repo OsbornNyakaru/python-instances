@@ -21,3 +21,7 @@ To run the code on the terminal type;
 ```
 python instances.py
 ```
+To clone this repository and try it for yourself, type the command below on your terminal;
+```
+git clone https://github.com/OsbornNyakaru/python-instances.git
+```
