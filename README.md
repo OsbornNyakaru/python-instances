@@ -1,7 +1,9 @@
 # Object-Oriented Programming in Python
 ## Instances
 Created a Python class named Person.
+
 ![Data analytics become common man’s language of deep python course training institute in ncr](https://github.com/OsbornNyakaru/python-instances/assets/110415101/1862d1a9-9b0b-4dc4-9fa8-7b5d316a97a0)
+
 
 The Person class has the following attributes:
 
